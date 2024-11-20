@@ -1,4 +1,7 @@
-## Hi there 👋
+<!-- ## Hi there 👋-->
+<!--![taguima](https://github.com/user-attachments/assets/fa9e83aa-ec4f-4842-93d6-a17ecc8cdb04)-->
+
+<img src="https://github.com/user-attachments/assets/fa9e83aa-ec4f-4842-93d6-a17ecc8cdb04" align=middle alt="taguima" />
 
 <!--
 **22858/22858** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
